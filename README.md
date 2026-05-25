@@ -42,9 +42,9 @@ https://github.com/reddileelasyamala-creator/assignment-reminder
 
 ## Author
 
-Leela Syamala
-T ROHITH REDDY 
-V YASHWANTH REDDY 
-R MAHITHA 
-AKHILESH 
+Leela Syamala,
+T ROHITH REDDY, 
+V YASHWANTH REDDY,
+R MAHITHA,
+AKHILESH .
 
